@@ -11,7 +11,7 @@ const swiper = new Swiper(".swiper-container", {
     slideShadows: false,
   },
   loop: true,
-  speed: 300,
+  speed: 500,
   pagination: {
     el: ".swiper-pagination",
     clickable: true,
